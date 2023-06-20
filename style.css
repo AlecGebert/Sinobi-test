@@ -639,6 +639,7 @@ body {
 }
 
 .hidden-form {
+    display: none;
     background: #696969;
 }
 
